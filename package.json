@@ -1,0 +1,25 @@
+{
+    "type": "module",
+    "name": "workout-app",
+    "version": "1.0.0",
+    "description": "personal workout logger",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/cmiranda956/workout-app.git"
+    },
+    "author": "typhon",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/cmiranda956/workout-app/issues"
+    },
+    "homepage": "https://github.com/cmiranda956/workout-app",
+    "dependencies": {
+        "cors": "^2.8.5",
+        "express": "^4.21.2",
+        "mongodb": "^6.13.0"
+    }
+}
